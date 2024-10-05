@@ -82,11 +82,15 @@ Here are some ideas to get you started:
 - 🎯 Goals
 - 🤝 Open to Collaborate
   -->
-<h5 align="left">📊 Stats:</h5>
-<p align="left">
-  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristynel&layout=compact&show_icons=true&theme=dark&hide_border=true" />
-  <img alt="card" height="130px"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristynel&theme=dark"/>
+<!-- <h5 align="left">📊 Stats:</h5>
+<p align="left"> -->
+  <!-- <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristynel&layout=compact&show_icons=true&theme=dark&hide_border=true" />
+  <img alt="card" height="130px"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristynel&theme=dark"/> -->
+
   <!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=cristynel&&theme=dark" alt="cristynel" /> -->
-  <img alt="snakeanime" height="200px" src="https://raw.githubusercontent.com/cristynel/cristynel/output/github-contribution-grid-snake-dark.svg">
+  <!-- <img alt="snakeanime" height="200px" src="https://raw.githubusercontent.com/cristynel/cristynel/output/github-contribution-grid-snake-dark.svg"> -->
+  <!-- <img alt="card" height="200px"  src="https://github-readme-activity-graph.vercel.app/graph?username=cristynel&theme=github-compact"/> -->
 </p>
 <!-- <p><img height="110px" src="https://github-profile-trophy.vercel.app/?username=cristynel&theme=darkhub" alt="cristynel" /></p> -->
+
+<!-- <div align="center"> -->
