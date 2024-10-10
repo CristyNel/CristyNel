@@ -10,5 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Developed a comprehensive and user-friendly web application, focusing on creating visually appealing and interactive gaming web pages. Utilized modern web technologies to ensure high performance and scalability, delivering a high-quality product tailored to the gaming community.
+description: Created a visually stunning and highly functional website, featuring modern 8k photoshopped high-quality images. This project captures the essence of people's dreams in both business and personal life, offering an immersive and engaging user experience. Leveraging the latest web technologies, we ensured the site is not only beautiful but also highly performant and scalable, delivering a top-notch web solution that resonates with users' aspirations and dreams.
 ---
