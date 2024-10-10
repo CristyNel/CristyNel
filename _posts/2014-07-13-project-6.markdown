@@ -10,5 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Passionate full-stack developer with a focus on creating and designing web applications and games. Always eager to learn and innovate in the field of technology.
+description: Created a series of round icons for various applications, focusing on clean and modern design. These icons are edited without backgrounds, making them versatile for use in company logos, leaflets, and other graphic design projects.
 ---
