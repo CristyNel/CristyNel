@@ -1,14 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Containerized Applications
+subtitle: Cloud & DevOps
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: containerized-apps.png
+thumbnail: containerized-apps-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Focusing on creating visually appealing and user-friendly gaming web pages. Leveraged modern web technologies to ensure a responsive and engaging user experience, delivering high-quality solutions tailored to the gaming community.
+client: Tech Solutions Inc.
+category: Cloud Development
+description: Developed and deployed containerized applications using Docker and Kubernetes, ensuring seamless portability across different platforms and operating systems. These applications are remotely accessible in the cloud, providing high availability and scalability. Leveraged cloud services to enhance performance and manageability.
 ---
+

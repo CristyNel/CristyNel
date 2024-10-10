@@ -1,9 +1,12 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+title: CristyNel
+# available at: https://cristynel.github.io/CristyNel/
+url: "https://cristynel.github.io"
+baseurl: "/CristyNel"
+# url: "https://cristinelnelubuliga.online"
+# baseurl: ""
 
 # Site settings
-title: CristyNel
-email: cristinel@gmail.com
+email: buligacristinelnelly@gmail.com
 description: "Passionate full-stack software engineer based in London. Enjoy creating web applications and games. Studying Computer Science at the University of Suffolk. Love traveling, hiking, reading the Bible, and learning new languages."
 
 # Team names, titles and social links
@@ -12,13 +15,13 @@ people:
     pic: 1
     position: "Full Stack Developer"
     social:
-      - title: LinkedIn
+      - title: linkedn
         url: "https://www.linkedin.com/in/buliga-cristinel-nelu/"
-      - title: YouTube
+      - title: youtube
         url: "https://www.youtube.com/@buligacristinel-nelu2740"
       - title: github
         url: "https://github.com/CristyNel"
-      - title: mail
+      - title: envelope
         url: "mailto:buligacristinelnelly@gmail.com"
 
 # - name: Larry Parker
@@ -45,19 +48,20 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: LinkedIn
+  - title: linkedin
     url: "https://www.linkedin.com/in/buliga-cristinel-nelu/"
-  - title: YouTube
+  - title: youtube
     url: "https://www.youtube.com/@buligacristinel-nelu2740"
   - title: github
     url: "https://github.com/CristyNel"
-  - title: mail
+  - title: envelope
     url: "mailto:buligacristinelnelly@gmail.com"
+
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
-  # - title: bitbucket
-  #   url: http://bitbucket.org/jekyll
-  # https://cristinelnelubuliga.online"
+# - title: bitbucket
+#   url: http://bitbucket.org/jekyll
+# https://cristinelnelubuliga.online"
 
 # Postal address (add as many lines as necessary)
 address:

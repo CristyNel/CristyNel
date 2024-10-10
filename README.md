@@ -8,7 +8,7 @@
 <div align="center">
 <a href="https://github.com/CristyNel/"                      ><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&labelColor=555555&logo=Github&logoColor"              alt="GitHub"          /></a>
 <a href="https://www.youtube.com/@buligacristinel-nelu2740"  ><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&labelColor=555555&logo=Youtube&logoColor=FF0000"     alt="YouTube Channel" /></a>
-<a href="https://cristinelnelubuliga.online"                 ><img src="https://img.shields.io/badge/web-GoDaddy-07a6a4?style=for-the-badge&labelColor=555555&logo=GoDaddy&logoColor=85edec" alt="Website"         /></a>
+<a href="https://cristynel.github.io/CristyNel/"             ><img src="https://img.shields.io/badge/web-GoDaddy-07a6a4?style=for-the-badge&labelColor=555555&logo=GoDaddy&logoColor=85edec" alt="Website"         /></a>
 <a href="mailto:buligacristinelnelly@gmail.com"              ><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=D14836"   alt="Gmail"           /></a>
 <a href="https://www.linkedin.com/in/buliga-cristinel-nelu/" ><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&labelColor=555555&logo=LinkedIn&logoColor"          alt="LinkedIn"        /></a>
 
