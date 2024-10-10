@@ -1,0 +1,14 @@
+---
+title: Dreams
+subtitle: Website Design
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Developed a comprehensive and user-friendly web application, focusing on creating visually appealing and interactive gaming web pages. Utilized modern web technologies to ensure high performance and scalability, delivering a high-quality product tailored to the gaming community.
+---

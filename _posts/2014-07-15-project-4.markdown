@@ -1,0 +1,14 @@
+---
+title: Treehouse
+subtitle: Website Design
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Designed a modern and responsive website for Treehouse, focusing on user experience and visual appeal. Utilized the latest web technologies to create an engaging and interactive platform.
+---

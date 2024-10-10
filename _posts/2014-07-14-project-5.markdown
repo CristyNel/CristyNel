@@ -1,0 +1,14 @@
+---
+title: Startup Framework
+subtitle: Website Design
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Developed a comprehensive and responsive website design for the Startup Framework project. Focused on creating a user-friendly interface and seamless user experience. Utilized modern web technologies to ensure high performance and scalability.
+---
