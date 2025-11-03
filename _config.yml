@@ -1,9 +1,17 @@
 title: CristyNel
 # available at: https://cristynel.github.io/CristyNel/
-url: "https://cristynel.github.io"
-baseurl: "/CristyNel"
+
+#* directly from github with no Domains
+# url: "https://cristynel.github.io"
+# baseurl: "/CristyNel"
+
+#* with old custom domain
 # url: "https://cristinelnelubuliga.online"
 # baseurl: ""
+
+#* with new custom domain
+url: "https://cristinel.store"
+baseurl: ""
 
 # Site settings
 email: buligacristinelnelly@gmail.com
